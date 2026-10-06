@@ -1,1 +1,25 @@
-
+.prix-box{
+  margin:15px 0;
+  padding:10px;
+  background:#f9f5ee;
+  border-radius:10px
+}
+.prix-box .old{
+  text-decoration:line-through;
+  color:gray;
+  font-size:14px;
+  margin-right:8px
+}
+.prix-box .new{
+  color:#1a5d1a;
+  font-size:24px;
+  font-weight:bold
+}
+.prix-box .badge{
+  background:#ff4444;
+  color:#fff;
+  padding:3px 8px;
+  border-radius:5px;
+  font-size:12px;
+  margin-left:8px
+}
